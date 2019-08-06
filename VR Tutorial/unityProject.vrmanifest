@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.vrtutorial.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\repos\\VR-Tutorial\\VR Tutorial\\actions.json",
+      "action_manifest_path": "E:\\repos\\VR-Learning\\VR Tutorial\\actions.json",
       "strings": {
         "en_us": {
           "name": "VR Tutorial [Testing]"
