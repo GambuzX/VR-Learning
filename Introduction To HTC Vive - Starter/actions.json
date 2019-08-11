@@ -9,13 +9,17 @@
       "type": "boolean"
     },
     {
+      "name": "/actions/default/in/Pose",
+      "type": "pose"
+    },
+    {
       "name": "/actions/default/in/SkeletonLeftHand",
-      "type": "pose",
+      "type": "skeleton",
       "skeleton": "/skeleton/hand/left"
     },
     {
       "name": "/actions/default/in/SkeletonRightHand",
-      "type": "pose",
+      "type": "skeleton",
       "skeleton": "/skeleton/hand/right"
     },
     {
@@ -76,6 +80,7 @@
     {
       "language_tag": "en_US",
       "/actions/default/in/HeadsetOnHead": "Headset on head (proximity sensor)",
+      "/actions/default/in/Pose": "Pose",
       "/actions/default/in/SkeletonLeftHand": "Skeleton (Left)",
       "/actions/default/in/SkeletonRightHand": "Skeleton (Right)",
       "/actions/default/in/Teleport": "Teleport",
